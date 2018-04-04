@@ -1,4 +1,4 @@
-# ayu Lightline Theme
+# ayu lightline.vim Theme
 ![ayu-lightline](https://raw.githubusercontent.com/yarisgutierrez/ayu-lightline/master/screenshot.png)
 
 ## About
