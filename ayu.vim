@@ -28,7 +28,7 @@ let s:p.normal.warning  = [ [ s:yellow, s:darkgray, 'bold' ] ]
 
 let s:p.normal.right    = [ [ s:text, s:darkgray, 'bold' ], [s:text, s:gray] ]
 
-let s:p.insert.left     = [ [ s:black, s:blue, 'bold' ], [ s:white, s:gray ] ]
+let s:p.insert.left     = [ [ s:black, s:blue ], [ s:white, s:gray ] ]
 let s:p.replace.left    = [ [ s:text, s:red ], [ s:white, s:gray ] ]
 let s:p.visual.left     = [ [ s:black, s:purple ], [ s:white, s:gray ] ]
 
